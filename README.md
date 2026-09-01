@@ -8,6 +8,7 @@ Daily LeetCode DSA solutions with problem-solving approaches, explanations, and 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -16,4 +17,9 @@ Daily LeetCode DSA solutions with problem-solving approaches, explanations, and 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
