@@ -12,11 +12,13 @@ Daily LeetCode DSA solutions with problem-solving approaches, explanations, and 
 | [0136-single-number](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,11 +33,13 @@ Daily LeetCode DSA solutions with problem-solving approaches, explanations, and 
 | ------- |
 | [0217-contains-duplicate](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -44,4 +48,5 @@ Daily LeetCode DSA solutions with problem-solving approaches, explanations, and 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
