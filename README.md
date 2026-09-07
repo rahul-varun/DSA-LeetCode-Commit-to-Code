@@ -7,6 +7,7 @@ Daily LeetCode DSA solutions with problem-solving approaches, explanations, and 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0136-single-number) |
@@ -49,4 +50,8 @@ Daily LeetCode DSA solutions with problem-solving approaches, explanations, and 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0350-intersection-of-two-arrays-ii) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/rahul-varun/DSA-LeetCode-Commit-to-Code/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
