@@ -4,10 +4,23 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        # count=0
+        # for i in nums:
+        #     if len(str(i))%2==0:
+        #         count+=1
+
+        # return count
+
         count=0
         for i in nums:
-            if len(str(i))%2==0:
+            digits=0
+            while i:
+                i//=10
+                digits+=1
+            
+            if digits%2==0:
                 count+=1
-
+            
         return count
+
         
